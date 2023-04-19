@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X1EX692Kt8Dma48No3pC/uFkrhCwqzLbcB1DFyBBZt0=",
+  "Source": "netcore6-jwt-auth",
+  "BasePath": "_content/netcore6-jwt-auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
