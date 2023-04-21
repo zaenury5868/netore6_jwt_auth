@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\laragon\\www\\portfolio\\netcore6-jwt-auth\\netcore6-jwt-auth.csproj": {}
+    "C:\\laragon\\www\\portfolio\\pribadi\\netcore6-jwt-auth\\netcore6-jwt-auth.csproj": {}
   },
   "projects": {
-    "C:\\laragon\\www\\portfolio\\netcore6-jwt-auth\\netcore6-jwt-auth.csproj": {
+    "C:\\laragon\\www\\portfolio\\pribadi\\netcore6-jwt-auth\\netcore6-jwt-auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\laragon\\www\\portfolio\\netcore6-jwt-auth\\netcore6-jwt-auth.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\portfolio\\pribadi\\netcore6-jwt-auth\\netcore6-jwt-auth.csproj",
         "projectName": "netcore6-jwt-auth",
-        "projectPath": "C:\\laragon\\www\\portfolio\\netcore6-jwt-auth\\netcore6-jwt-auth.csproj",
+        "projectPath": "C:\\laragon\\www\\portfolio\\pribadi\\netcore6-jwt-auth\\netcore6-jwt-auth.csproj",
         "packagesPath": "C:\\Users\\zaenu\\.nuget\\packages\\",
-        "outputPath": "C:\\laragon\\www\\portfolio\\netcore6-jwt-auth\\obj\\",
+        "outputPath": "C:\\laragon\\www\\portfolio\\pribadi\\netcore6-jwt-auth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

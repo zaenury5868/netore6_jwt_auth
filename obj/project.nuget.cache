@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l+Ubage06XmpJL74s+VOuefvQkqXRA0qyd+jizWoi1SUMvTDkCA81d088SpwTbtSwSOR/Y3yJ9yg3WLSgdtrMA==",
+  "dgSpecHash": "V0Bkp1Pu9A0RdpzLOq8ObvUP/jwzpxVSNUOrwVw10n3brBZ882CrzTirMUC0xPBzOdFt/oq0ImSAols9DBsfvw==",
   "success": true,
-  "projectFilePath": "C:\\laragon\\www\\portfolio\\netcore6-jwt-auth\\netcore6-jwt-auth.csproj",
+  "projectFilePath": "C:\\laragon\\www\\portfolio\\pribadi\\netcore6-jwt-auth\\netcore6-jwt-auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zaenu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\zaenu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.15\\microsoft.aspnetcore.authentication.jwtbearer.6.0.15.nupkg.sha512",
